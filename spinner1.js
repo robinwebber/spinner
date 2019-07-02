@@ -1,3 +1,5 @@
+// Pair coded with Hans Xu
+
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 100);
